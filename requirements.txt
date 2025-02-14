@@ -1,0 +1,6 @@
+streamlit==1.26.0
+streamlit-webrtc==0.43.4
+SpeechRecognition==3.10.0
+sympy==1.12
+numpy==1.26.4
+pillow==9.5.0  # Compatible version for Streamlit
